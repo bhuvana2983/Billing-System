@@ -1,0 +1,35 @@
+
+                      Cantina                       
+         PES University GJBC, Bangalore-85          
+                 PH +91 8989898989                  
+
+Bill No. : 75190          Date : 16/12/2023 21:48
+Customer Name  : ugthutt@rfbry
+Customer Email : tghth@rygfyr.com
+
+---------------------------------------------------
+Item Name                 Qty     Rate      Amount
+---------------------------------------------------
+Cheese Garlick Toast       1      60.0        60.0
+Chicken popcorn            1      80.0        80.0
+Paneer/Chicken Roll        1      70.0        70.0
+Chilli Cheese Sandwich     1      60.0        60.0
+Fudgie Brownie             1      50.0        50.0
+
+---------------------------------------------------
+Total                                        320.0
+Discount @11.3%                             -36.16
+SGST @2.5%                                     7.1
+CGST @2.5%                                     7.1
+Total Tax                                    14.19
+
+---------------------------------------------------
+            Total Bill Amount : ₹298.03             
+                  Paid Debit Card                   
+
+---------------------------------------------------
+
+                     Thank You.                     
+                    Visit Again!                    
+
+---------------------------------------------------

@@ -1,0 +1,39 @@
+
+                      Cantina                       
+         PES University GJBC, Bangalore-85          
+                 PH +91 8989898989                  
+
+Bill No. : 95539          Date : 16/12/2023 21:11
+Customer Name  : Rithik
+Customer Email : rithikmadhav004@gmail.com
+
+---------------------------------------------------
+Item Name                 Qty     Rate      Amount
+---------------------------------------------------
+Egg Puff                   3      30.0        90.0
+Potato wedges              2      60.0       120.0
+Bread Omelette             1      50.0        50.0
+Chicken Kabab              2      80.0       160.0
+Crispy Chicken Burger      2      90.0       180.0
+French Toast               5      60.0       300.0
+Chicken Biryani            1      90.0        90.0
+Lava Cake                  2      60.0       120.0
+Bubble Tea                 4      90.0       360.0
+
+---------------------------------------------------
+Total                                       1470.0
+Discount @15%                               -220.5
+SGST @2.5%                                   31.24
+CGST @2.5%                                   31.24
+Total Tax                                    62.48
+
+---------------------------------------------------
+            Total Bill Amount : ₹1311.97            
+                  Paid Credit Card                  
+
+---------------------------------------------------
+
+                     Thank You.                     
+                    Visit Again!                    
+
+---------------------------------------------------

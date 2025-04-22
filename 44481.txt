@@ -1,0 +1,31 @@
+
+                      Cantina                       
+         PES University GJBC, Bangalore-85          
+                 PH +91 8989898989                  
+
+Bill No. : 44481          Date : 16/12/2023 21:45
+Customer Name  : htgrbru
+Customer Email : tgbr@rfryf.fygfy
+
+---------------------------------------------------
+Item Name                 Qty     Rate      Amount
+---------------------------------------------------
+French Fries               1      60.0        60.0
+
+---------------------------------------------------
+Total                                         60.0
+Discount @1%                                  -0.6
+SGST @2.5%                                    1.49
+CGST @2.5%                                    1.49
+Total Tax                                     2.97
+
+---------------------------------------------------
+             Total Bill Amount : ₹62.37             
+                     Paid Cash                      
+
+---------------------------------------------------
+
+                     Thank You.                     
+                    Visit Again!                    
+
+---------------------------------------------------
